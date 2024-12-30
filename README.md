@@ -1,4 +1,4 @@
-## wc linux util implementation using multithreading go concepts
+## wc linux util implementations using multithreading go concepts
 
 **wcBufChannel.go** - implementation of wc util using a buffered channel
 
